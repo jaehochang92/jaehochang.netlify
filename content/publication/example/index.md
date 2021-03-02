@@ -1,5 +1,5 @@
 ---
-title: "An example paper"
+title: "High-dimensional linear discriminant analysis with moderately clipped LASSO"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
