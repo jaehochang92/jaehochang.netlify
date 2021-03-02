@@ -70,8 +70,8 @@ email: "cjhsfl@gmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a prospective Ph.D. student planning to study in the United States. I earned bachelor’s and master’s degrees in Applied Statistics at Konkuk University under the supervision of professor Kyusang Yu.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My ultimate professional goal is to be a scholar developing applied statistical methodologies. In the future, I hope to do postdoc training in the public health sector and engage with other scientists in interdisciplinary studies. Then I desire to work as a faculty and develop methodologies for the most complex human diseases.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
