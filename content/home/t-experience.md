@@ -29,10 +29,12 @@ experience:
     date_start: '2018-03-05'
     date_end: '2019-12-31'
     description: |2-
-        Departmental teaching assistantship:
+        Computer programming:
+        * Undergraduate course \- Regressions Analysis
+        * Graduate course \- Theory of Likelihood Functions, Skew Normal and related distribution families, Nonparametric Function Estimation
         
-        * Regressions Analysis; computer programming
-        * Mathematical Statistics; quizz marking
+        Quizz marking: 
+        * Undergraduate Mathematical Statistics
         
   - title: Part-time lecturer
     company: Department of Human Resources, GS Engineering & Construction
