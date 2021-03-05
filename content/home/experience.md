@@ -50,7 +50,7 @@ experience:
 ---
 
 
-Collaboration with SK C&C and Korea University Medical Center
+<!-- Collaboration with SK C&C and Korea University Medical Center
 Assistant Researcher
 Company NameCollaboration with SK C&C and Korea University Medical Center Contract
 Dates EmployedJul 2018 – Sep 2018
@@ -67,4 +67,4 @@ Military Service
 Company NameRepublic of Korea Army
 Dates EmployedFeb 2014 – Nov 2015
 Employment Duration1 yr 10 mos
-LocationWonju-si, Gangwon-do, South Korea
+LocationWonju-si, Gangwon-do, South Korea -->
