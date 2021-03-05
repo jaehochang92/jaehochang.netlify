@@ -23,7 +23,7 @@ feature:
   icon_pack: fab
   name: Python
 - icon: git-alt
-  icon_pack: fas
+  icon_pack: fab
   name: Git
 - icon: docker
   icon_pack: fab
