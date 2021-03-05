@@ -41,7 +41,7 @@ experience:
     date_start: '2018-03-01'
     date_end: '2019-12-31'
     description:  |2-
-    Worked as the head research assistant at the Statistical Consulting Office':' communication with clients, task definition and management, suggestion of statistical methodologies
+        Worked as the head research assistant at the Statistical Consulting Office':' communication with clients, task definition and management, suggestion of statistical methodologies
         
         Key work:
 
