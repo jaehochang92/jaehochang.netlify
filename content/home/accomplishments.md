@@ -23,12 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_start: "2019-05-01"
+  description: Awarded for the poster presentation of a paper _Ultimate Sharpening of Jensen's Inequality_
+  organization: Korean Statistical Society
+  organization_url: http://www.kss.or.kr/eng/en_about_kss.html
+  title: Honorable mention
+  url: 
 ---
+
