@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -45,7 +45,7 @@ experience:
         
         * Communication, management, data analysis, final reporting
         
-        Key work:
+        Key works:
 
         * A Meta_Analysis of the Stress Reaction Effect of Aromatherapy (Doctoral thesis in Art & Design at Konkuk University, 2018)
         * A survey on the satisfaction of Korean traditional dessert class (Korea Cultural Heritage Foundation, 2018)
@@ -65,5 +65,24 @@ experience:
         * Fitted classification models to predict the risk of each patient's MDR type
         * Built an API to serve predictive models to the client
 
----
+  - title: Freelancer
+    company: 
+    company_url: ''
+    location: Seoul, South Korea
+    date_start: '2020-05-01'
+    date_end: '2020-10-31'
+    description: |2-
+        Mentoring:
+        
+        * Statistics and theories for graduate students
+        * Tutorials for using statistical softwares and programming languages
+        * Fitted classification models to predict the risk of each patient's MDR type
+        * Built an API to serve predictive models to the client
 
+        Statistical Consulting:
+        * (2020). Analysis of Performance Factors of KLPGA and LPGA Players, and Prediction of Winners. _Journal of the Korean society for Wellness_.
+        * (2020). The Longitudinal Analysis of the Performance Factors Affecting the Korean Ladies Professional Golfer's Prize Money: Using Data from 2010 to 2019. _Journal of Golf Studies_.
+        * (2020). A Case Study on Villagers’ Participation and Project Achievement in Rural Development. _Journal Of The Korean Society Of Rural Planning_.
+
+
+---
