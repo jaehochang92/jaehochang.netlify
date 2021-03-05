@@ -76,8 +76,6 @@ experience:
         
         * Statistics and theories for graduate students
         * Tutorials for using statistical softwares and programming languages
-        * Fitted classification models to predict the risk of each patient's MDR type
-        * Built an API to serve predictive models to the client
 
         Statistical Consulting:
         * (2020). Analysis of Performance Factors of KLPGA and LPGA Players, and Prediction of Winners. _Journal of the Korean society for Wellness_.
