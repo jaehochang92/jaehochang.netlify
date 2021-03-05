@@ -1,21 +1,21 @@
 ---
-title: "A Study on the Conflict Structure of the Standing Committee through Topic Analysis of the National Assembly Minutes : Health and Welfare Committee in the First Half of the 20th National Assembly"
+title: "High-dimensional linear discriminant analysis with moderately clipped LASSO"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Lee, H.
 - admin
-- Kim, G.
+- Moon, H.
+- Kwon, S.
 
 # Author notes (optional)
 author_notes:
+- ""
+- ""
 - "corresponding author"
-- ""
-- ""
 
-date: "2020-06-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,13 +28,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Korean Party Studies Review*
-publication_short: In *KPSR*
+publication: In *Communications for Statistical Applications and Methods*
+publication_short: In *CSAM*
 
-abstract: It is necessary to analyze the deliberation process within the standing committee in order to understand the assembly’s collective decision-making structure. This paper analyzes the minutes of the Twentieth National Assembly Health and Welfare Committee by utilizing the topic modeling technique based on an automated text analysis. As a result of this analysis, we extracted sixteen topics characterized by their high frequency of occurring in speeches during the standing committee meetings. Based on the sixteen topics extracted, we examined the review process within the Health and Welfare Committee. We found that the confrontation structure was clearly identifiable that differed depending on the characteristics of each political party, subject, timing, and the individual members. We also discovered that there were differences in the areas of interest regarding policy and legislative issues. This paper analyzed in detail the actual issues and their associated confrontational structures in the process of deliberation of bills and confirmed their substance by analyzing the minutes of the standing committee. This approach is rather different from the one pursued by the existing research that has analyzed the deliberation process of the standing committee based on the collective data.
+abstract: There is a direct connection between linear discriminant analysis (LDA) and linear regression since the direction vector of the LDA can be obtained by the least square estimation. The connection motivates the penalized LDA when the model is high-dimensional where the number of predictive variables is larger than the sample size. In this paper, we study the penalized LDA for a class of penalties, called the moderately clipped LASSO (MCL), which interpolates between the least absolute shrinkage and selection operator (LASSO) and minimax concave penalty. We prove that the MCL penalized LDA correctly identifies the sparsity of the Bayes direction vector with probability tending to one, which is supported by better finite sample performance than LASSO based on concrete numerical studies.
 
 # Summary. An optional shortened abstract.
-summary: National Assembly Minutes, Health and Welfare Committee, topic modeling technique, standing committee, automated text analysis
+summary: High-dimensional LDA, LASSO, MCP, moderately clipped LASSO
 
 tags: []
 
