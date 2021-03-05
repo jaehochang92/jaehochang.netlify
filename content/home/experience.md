@@ -38,7 +38,7 @@ experience:
     company: Konkuk University
     company_url: 'http://www.konkuk.ac.kr/do/Eng/Index.do'
     location: Seoul, South Korea
-    date_start: '2018-03-01'
+    date_start: '2018-03-05'
     date_end: '2019-12-31'
     description: |2-
         Worked as the head research assistant at the Statistical Consulting Office: 
@@ -55,7 +55,7 @@ experience:
     company: SK C&C X Korea University Medical Center
     company_url: ''
     location: Seoul, South Korea
-    date_start: '2018-06-01'
+    date_start: '2018-06-15'
     date_end: '2018-09-30'
     description: |2-
         Contributed to developing antibiotics recommendation system for the antibiotics stewardship:
