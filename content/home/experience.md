@@ -58,7 +58,7 @@ experience:
     date_start: '2018-06-01'
     date_end: '2018-09-31'
     description:  |2-
-        Contributed to developing antibiotics recommendation system for the antibiotics stewardship
+        Contributed to developing antibiotics recommendation system for the antibiotics stewardship:
         
         - Created predictive models for different types of multidrug-resistant(MDR) diseases
         - Conducted data manipulation and formed data mart
@@ -66,3 +66,4 @@ experience:
         - Built an API to serve predictive models to the client
 
 ---
+
