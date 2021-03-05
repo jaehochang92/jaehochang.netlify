@@ -25,6 +25,9 @@ feature:
 - icon: git-alt
   icon_pack: fab
   name: Git
+- icon: terminal
+  icon_pack: fas
+  name: Bash
 - icon: docker
   icon_pack: fab
   name: docker
@@ -37,9 +40,6 @@ feature:
 - icon: markdown
   icon_pack: fab
   name: Markdown
-- icon: terminal
-  icon_pack: fas
-  name: Bash
 # - description: 50%
 #   icon: 
 #   icon_pack: fas

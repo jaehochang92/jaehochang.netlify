@@ -18,15 +18,14 @@ bio: My research interests include high-dimensional modeling for biomedical data
 
 # Interests to show in About widget
 interests:
-- High-dimensional modeling
-- Cancer
+- High-dimensional data
 - Statistical genetics
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Statistics
-    institution: Some University
+    institution:
     year: 2026
   - course: MA in Applied Statistics
     institution: Konkuk University
@@ -74,4 +73,4 @@ I am a prospective Ph.D. student planning to study in the United States. I earne
 
 My ultimate professional goal is to be a scholar developing applied statistical methodologies. In the future, I hope to do postdoc training in the public health sector and engage with other scientists in interdisciplinary studies. Then I desire to work as a faculty and develop methodologies for the most complex human diseases.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
