@@ -56,7 +56,7 @@ experience:
     company_url: ''
     location: Seoul, South Korea
     date_start: '2018-06-01'
-    date_end: '2018-09-31'
+    date_end: '2018-09-30'
     description: |2-
         Contributed to developing antibiotics recommendation system for the antibiotics stewardship:
         
