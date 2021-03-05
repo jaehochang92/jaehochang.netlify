@@ -7,7 +7,7 @@
 
 theme: rose
 day_night: true
-font: ''
+font: 'Ubuntu'
 font_size: L
 
 # SEO

@@ -27,7 +27,7 @@ feature:
   name: docker
 - icon: html5
   icon_pack: fab
-  name: html
+  name: HTML
 - icon: sass
   icon_pack: fab
   name: sass
