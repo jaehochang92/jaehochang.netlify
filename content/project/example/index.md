@@ -1,6 +1,6 @@
 ---
 title: Antibiotics Stewardship
-summary: Developing predictive models for the infection/colonization of two major Multi-Drug Resistant(MDR) superbacteria types
+summary: Developing predictive models for the infection/colonization of two major Multi-Drug Resistant(MDR) super-bacteria types
 tags:
 - Machine Learning
 date: "2018-09-31T00:00:00Z"
