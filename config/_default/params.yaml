@@ -30,8 +30,8 @@ address:
   country: South Korea
   country_code: KR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '37.650338'
+  longitude: '127.119997'
 directions: Find me
 office_hours:
   - 'Monday 10:00 to 13:00'
