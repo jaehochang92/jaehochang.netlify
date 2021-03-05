@@ -47,7 +47,7 @@ experience:
         
         Key work:
 
-        * A Meta--Analysis of the Stress Reaction Effect of Aromatherapy (Doctoral thesis in Art & Design at Konkuk University, 2018)
+        * A Meta_Analysis of the Stress Reaction Effect of Aromatherapy (Doctoral thesis in Art & Design at Konkuk University, 2018)
         * A survey on the satisfaction of Korean traditional dessert class (Korea Cultural Heritage Foundation, 2018)
         * Several master's theses
 
@@ -60,7 +60,7 @@ experience:
     description: |2-
         Contributed to developing antibiotics recommendation system for the antibiotics stewardship:
         
-        * Created predictive models for different types of multidrug--resistant(MDR) diseases
+        * Created predictive models for different types of multidrug_resistant(MDR) diseases
         * Conducted data manipulation and formed data mart
         * Fitted classification models to predict the risk of each patient's MDR type
         * Built an API to serve predictive models to the client
