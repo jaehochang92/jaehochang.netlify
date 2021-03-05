@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Teaching Assistant
-    company: Konkuk University
+    company: Department of Applied Statistics, Konkuk University
     company_url: 'http://www.konkuk.ac.kr/do/Eng/Index.do'
     location: Seoul, South Korea
     date_start: '2018-03-05'
@@ -35,7 +35,7 @@ experience:
         * Mathematical Statistics; quizz marking
         
   - title: Part-time lecturer
-    company: GS Engineering & Construction
+    company: Department of Human Resources, GS Engineering & Construction
     company_url: 'http://www.gs.co.kr/en/branch/gs-ec'
     location: Seoul, South Korea
     date_start: '2020-07-01'
