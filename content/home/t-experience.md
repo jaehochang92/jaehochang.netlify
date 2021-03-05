@@ -31,7 +31,7 @@ experience:
     description: |2-
         Computer programming:
         * Undergraduate course \- Regressions Analysis
-        * Graduate course \- Theory of Likelihood Functions, Skew Normal and related distribution families, Nonparametric Function Estimation
+        * Graduate course \- Theory of Likelihood Functions, Skew Normal and Related Distribution Families, Nonparametric Function Estimation
         
         Quizz marking: 
         * Undergraduate Mathematical Statistics
