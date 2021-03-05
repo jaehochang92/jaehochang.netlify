@@ -41,7 +41,9 @@ experience:
     date_start: '2018-03-01'
     date_end: '2019-12-31'
     description:  |2-
-        Worked as the head research assistant at the Statistical Consulting Office':' communication with clients, task definition and management, suggestion of statistical methodologies
+        Worked as the head research assistant at the Statistical Consulting Office: 
+        
+        - Communication, management, data analysis, final reporting
         
         Key work:
 
@@ -49,24 +51,18 @@ experience:
         - A survey on the satisfaction of Korean traditional dessert class (Korea Cultural Heritage Foundation, 2018)
         - Several master's theses
 
+  - title: Assistant Researcher
+    company: SK C&C X Korea University Medical Center
+    company_url: ''
+    location: Seoul, South Korea
+    date_start: '2018-06-01'
+    date_end: '2018-09-31'
+    description:  |2-
+        Contributed to developing antibiotics recommendation system for the antibiotics stewardship
+        
+        - Created predictive models for different types of multidrug-resistant(MDR) diseases
+        - Conducted data manipulation and formed data mart
+        - Fitted classification models to predict the risk of each patient's MDR type
+        - Built an API to serve predictive models to the client
+
 ---
-
-
-<!-- Collaboration with SK C&C and Korea University Medical Center
-Assistant Researcher
-Company NameCollaboration with SK C&C and Korea University Medical Center Contract
-Dates EmployedJul 2018 – Sep 2018
-Employment Duration3 mos
-LocationSeoul, South Korea
-An antibiotics recommendation system for the stewardship of antibiotics
-- created predictive models for different types of multidrug-resistant(MDR) diseases
-- conducted data manipulation and formed data mart
-- fitted classification models to predict the risk of each patient's MDR type
-- built an API to serve predictive models to the client
-see less
-Republic of Korea Army
-Military Service
-Company NameRepublic of Korea Army
-Dates EmployedFeb 2014 – Nov 2015
-Employment Duration1 yr 10 mos
-LocationWonju-si, Gangwon-do, South Korea -->
