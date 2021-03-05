@@ -36,7 +36,7 @@ experience:
         Quizz marking: 
         * Undergraduate Mathematical Statistics
         
-  - title: Part-time lecturer
+  - title: Part-time Lecturer
     company: Department of Human Resources, GS Engineering & Construction
     company_url: 'http://www.gs.co.kr/en/branch/gs-ec'
     location: Seoul, South Korea
