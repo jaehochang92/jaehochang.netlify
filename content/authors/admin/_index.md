@@ -10,7 +10,7 @@ role: Prospective Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Some University
+- name: University
   url: https://www.some.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,8 +18,8 @@ bio: My research interests include high-dimensional modeling for biomedical data
 
 # Interests to show in About widget
 interests:
-- High-dimensional data
-- Statistical genetics
+- High-dimensional Data
+- Statistical Genetics
 
 # Education to show in About widget
 education:
