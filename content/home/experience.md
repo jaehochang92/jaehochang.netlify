@@ -42,7 +42,9 @@ experience:
     date_end: '2019-12-31'
     description:  |2-
     Worked as the head research assistant at the Statistical Consulting Office':' communication with clients, task definition and management, suggestion of statistical methodologies
+        
         Key work:
+
         - A Meta-Analysis of the Stress Reaction Effect of Aromatherapy (Doctoral thesis in Art & Design at Konkuk University, 2018)
         - A survey on the satisfaction of Korean traditional dessert class (Korea Cultural Heritage Foundation, 2018)
         - Several master's theses
