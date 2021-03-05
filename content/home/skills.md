@@ -20,10 +20,10 @@ feature:
   icon_pack: fab
   name: R
 - icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 - description: 50%
-  icon: bash
+  icon: terminal
   icon_pack: fas
   name: bash
 
