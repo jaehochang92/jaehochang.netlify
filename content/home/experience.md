@@ -40,7 +40,7 @@ experience:
     location: Seoul, South Korea
     date_start: '2018-03-01'
     date_end: '2019-12-31'
-    description:  |2-
+    description: |2-
         Worked as the head research assistant at the Statistical Consulting Office: 
         
         - Communication, management, data analysis, final reporting
@@ -57,7 +57,7 @@ experience:
     location: Seoul, South Korea
     date_start: '2018-06-01'
     date_end: '2018-09-31'
-    description:  |2-
+    description: |2-
         Contributed to developing antibiotics recommendation system for the antibiotics stewardship:
         
         - Created predictive models for different types of multidrug-resistant(MDR) diseases
