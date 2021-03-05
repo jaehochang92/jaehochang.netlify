@@ -22,10 +22,25 @@ feature:
 - icon: python
   icon_pack: fab
   name: Python
-- description: 50%
-  icon: terminal
+- icon: docker
+  icon_pack: fab
+  name: docker
+- icon: html5
+  icon_pack: fab
+  name: html
+- icon: sass
+  icon_pack: fab
+  name: sass
+- icon: markdown
+  icon_pack: fab
+  name: Markdown
+- icon: terminal
   icon_pack: fas
-  name: bash
+  name: Bash
+# - description: 50%
+#   icon: 
+#   icon_pack: fas
+#   name: 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
