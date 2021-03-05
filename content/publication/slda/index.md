@@ -44,7 +44,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 - name: DOI
-  url: https://doi.org/10.29220/CSAM.2021.28.1.021
+  url: 'https://doi.org/10.29220/CSAM.2021.28.1.021'
 
 url_pdf: ''
 url_code: ''
