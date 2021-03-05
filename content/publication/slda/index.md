@@ -16,7 +16,7 @@ author_notes:
 - "corresponding author"
 
 date: "2021-01-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.29220/CSAM.2021.28.1.021"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -42,9 +42,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links: 
-- name: DOI
-  url: 'https://doi.org/10.29220/CSAM.2021.28.1.021'
+# links: 
+# - name: custom
+#   url: ''
 
 url_pdf: ''
 url_code: ''
