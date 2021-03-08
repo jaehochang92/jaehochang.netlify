@@ -12,8 +12,8 @@ authors:
 # Author notes (optional)
 author_notes:
 - "corresponding author"
-- ""
-- ""
+- "a"
+- "b"
 
 date: "2020-06-01T00:00:00Z"
 doi: ""
