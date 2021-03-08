@@ -60,7 +60,7 @@ experience:
     description: |2-
         Contributed to developing antibiotics recommendation system for the antibiotics stewardship:
         
-        * Created predictive models for different types of multidrug_resistant(MDR) diseases
+        * Created predictive models for different types of multi--drug resistant(MDR) diseases
         * Conducted data manipulation and formed data mart
         * Fitted classification models to predict the risk of each patient's MDR type
         * Built an API to serve predictive models to the client
