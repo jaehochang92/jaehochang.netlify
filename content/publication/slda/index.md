@@ -6,8 +6,8 @@ title: "High-dimensional linear discriminant analysis with moderately clipped LA
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Moon, H.
-- Kwon, S.
+- Moon H
+- Kwon S
 
 # Author notes (optional)
 author_notes:

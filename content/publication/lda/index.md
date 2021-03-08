@@ -5,9 +5,9 @@ title: "A Study on the Conflict Structure of the Standing Committee through Topi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Lee H\.
+- Lee H\
 - admin
-- Kim G\.
+- Kim G\
 
 # Author notes (optional)
 author_notes:
