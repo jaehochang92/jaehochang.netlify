@@ -7,7 +7,7 @@ main:
   # - name: CV
   #   url: '#cv'
   #   weight: 10
-  - name: Academic Works
+  - name: Posts
     url: '#posts'
     weight: 20
   - name: Projects
