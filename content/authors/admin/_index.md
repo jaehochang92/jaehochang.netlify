@@ -11,10 +11,10 @@ role: Prospective Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University
-  url: https://www.some.edu/
+  url: https://www.whereshalligo.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include high-dimensional modeling for biomedical data.
+bio: My current interes is high-dimensional modeling for biomedical data.
 
 # Interests to show in About widget
 interests:
@@ -51,9 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jaehochang92
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/jaehochang92
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/jaehochang92/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
