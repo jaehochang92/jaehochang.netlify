@@ -26,9 +26,11 @@ experience:
     company: Department of Statistics & Actuarial Science, University of Iowa
     company_url: 'http://www.konkuk.ac.kr/do/Eng/Index.do'
     location: Iowa City, Iowa
-    date_start: '2021-08-01'
+    date_start: '2021-08-18'
     date_end: 'Present'
     description: |2-
+        TBU:
+        * To Be Updated
 
   - title: Teaching Assistant
     company: Department of Applied Statistics, Konkuk University
