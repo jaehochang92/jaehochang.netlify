@@ -11,7 +11,7 @@ role: Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Iowa
-  url: https://stat.uiowa.edu/
+  url: https://uiowa.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current interes is high-dimensional modeling for biomedical data.
