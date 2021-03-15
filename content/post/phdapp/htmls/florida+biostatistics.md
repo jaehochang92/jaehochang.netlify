@@ -2,8 +2,8 @@
                 title: Ph.D. apps
                 subtitle: florida+biostatistics
                 projects: []
-                date: "2021-03-15T02:35:34Z"
-                lastmod: "2021-03-15T02:35:34Z"
+                date: "2021-03-15T02:36:33Z"
+                lastmod: "2021-03-15T02:36:33Z"
                 draft: false
                 featured: false
                 authors:
@@ -12,7 +12,8 @@
                 - miscellaneous
                 categories:
                 - 
-                ---<table class="submission-table">
+                ---
+                <table class="submission-table">
 					<thead>
 						<tr>
 							<th class="tcol1">

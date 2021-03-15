@@ -2,8 +2,8 @@
                 title: Ph.D. apps
                 subtitle: ohio+statistics
                 projects: []
-                date: "2021-03-15T02:35:42Z"
-                lastmod: "2021-03-15T02:35:42Z"
+                date: "2021-03-15T02:36:39Z"
+                lastmod: "2021-03-15T02:36:39Z"
                 draft: false
                 featured: false
                 authors:
@@ -12,7 +12,8 @@
                 - miscellaneous
                 categories:
                 - 
-                ---<table class="submission-table">
+                ---
+                <table class="submission-table">
 					<thead>
 						<tr>
 							<th class="tcol1">

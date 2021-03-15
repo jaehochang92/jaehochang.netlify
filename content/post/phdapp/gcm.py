@@ -53,6 +53,7 @@ if __name__ == '__main__':
                 - miscellaneous
                 categories:
                 - 
-                ---''' +
+                ---
+                ''' +
             header + submissions_phd + '</table>'
         )
