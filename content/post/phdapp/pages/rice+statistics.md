@@ -1,7 +1,6 @@
+### rice+statistics
 
-###rice+statistics
-
-####date: "2021-03-15T03:14:02Z"
+#### 2021-03-15T03:14:52Z
 
 <table class="submission-table">
 					<thead>

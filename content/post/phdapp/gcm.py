@@ -40,8 +40,7 @@ if __name__ == '__main__':
         tz = pytz.timezone('US/Eastern')
         time_stamp = datetime.now(tz).strftime("%Y-%m-%dT%I:%M:%SZ")
         html_file.writelines(
-            f'''
-###{query}\n
-####date: "{time_stamp}"\n\n''' +
+            f'''### {query}\n
+#### {time_stamp}\n\n''' +
             header + submissions_phd + '</table>'
         )

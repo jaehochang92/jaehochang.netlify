@@ -1,7 +1,6 @@
+### colorado+statistics
 
-###colorado+statistics
-
-####date: "2021-03-15T03:14:05Z"
+#### 2021-03-15T03:14:56Z
 
 <table class="submission-table">
 					<thead>

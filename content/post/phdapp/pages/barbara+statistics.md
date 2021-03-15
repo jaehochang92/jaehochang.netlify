@@ -1,7 +1,6 @@
+### barbara+statistics
 
-###barbara+statistics
-
-####date: "2021-03-15T03:13:58Z"
+#### 2021-03-15T03:14:48Z
 
 <table class="submission-table">
 					<thead>
