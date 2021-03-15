@@ -35,7 +35,10 @@ if __name__ == '__main__':
             submissions_phd += re.sub('<td class="tcol6">.+</td></tr>',
                                       f'<td class="tcol6">{cmm[0] if cmm else ""}</td></tr>', line) + '\n'
 
-    with open(f'htmls/{query}.md', 'w') as html_file:
+    import os
+    if not os.path.exists(f'pages/{query}'):
+        os.mkdir(f'pages/{query}')
+    with open(f'pages/{query}/index.md', 'w') as html_file:
         tz = pytz.timezone('US/Eastern')
         time_stamp = datetime.now(tz).strftime("%Y-%m-%dT%I:%M:%SZ")
         html_file.writelines(
