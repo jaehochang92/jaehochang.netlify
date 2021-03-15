@@ -36,11 +36,11 @@ if __name__ == '__main__':
                                       f'<td class="tcol6">{cmm[0] if cmm else ""}</td></tr>', line) + '\n'
 
     import os
-    with open(f'pages/{query}.md', 'w') as html_file:
+    with open(f'pages/{query}.html', 'w') as html_file:
         tz = pytz.timezone('US/Eastern')
         time_stamp = datetime.now(tz).strftime("%Y-%m-%d %a %I:%M %p")
         html_file.writelines(
-            f'''### {query}\n
-#### {time_stamp}\n\n''' +
+            f'''<h3>{query}</h3>\n
+<h4>{time_stamp}</h4>\n\n''' +
             header + submissions_phd + '</table>'
         )
