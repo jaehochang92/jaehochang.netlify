@@ -36,26 +36,12 @@ if __name__ == '__main__':
                                       f'<td class="tcol6">{cmm[0] if cmm else ""}</td></tr>', line) + '\n'
 
     import os
-    if not os.path.exists(f'pages/{query}'):
-        os.mkdir(f'pages/{query}')
-    with open(f'pages/{query}/index.md', 'w') as html_file:
+    with open(f'pages/{query}.md', 'w') as html_file:
         tz = pytz.timezone('US/Eastern')
         time_stamp = datetime.now(tz).strftime("%Y-%m-%dT%I:%M:%SZ")
         html_file.writelines(
-            f'''---
-title: Ph.D. apps
-subtitle: {query}
-projects: []
-date: "{time_stamp}"
-lastmod: "{time_stamp}"
-draft: false
-featured: false
-authors:
-- admin
-tags:
-- miscellaneous
-categories:
-- 
----\n\n''' +
+            f'''
+###{query}\n
+####date: "{time_stamp}"\n\n''' +
             header + submissions_phd + '</table>'
         )

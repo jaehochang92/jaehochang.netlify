@@ -1,18 +1,7 @@
----
-title: Ph.D. apps
-subtitle: chapel+biostatistics
-projects: []
-date: "2021-03-15T03:01:57Z"
-lastmod: "2021-03-15T03:01:57Z"
-draft: false
-featured: false
-authors:
-- admin
-tags:
-- miscellaneous
-categories:
-- 
----
+
+###chapel+biostatistics
+
+####date: "2021-03-15T03:13:48Z"
 
 <table class="submission-table">
 					<thead>

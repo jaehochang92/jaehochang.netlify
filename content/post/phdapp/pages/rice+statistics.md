@@ -1,18 +1,7 @@
----
-title: Ph.D. apps
-subtitle: rice+statistics
-projects: []
-date: "2021-03-15T03:02:10Z"
-lastmod: "2021-03-15T03:02:10Z"
-draft: false
-featured: false
-authors:
-- admin
-tags:
-- miscellaneous
-categories:
-- 
----
+
+###rice+statistics
+
+####date: "2021-03-15T03:14:02Z"
 
 <table class="submission-table">
 					<thead>

@@ -1,18 +1,7 @@
----
-title: Ph.D. apps
-subtitle: colorado+statistics
-projects: []
-date: "2021-03-15T03:02:13Z"
-lastmod: "2021-03-15T03:02:13Z"
-draft: false
-featured: false
-authors:
-- admin
-tags:
-- miscellaneous
-categories:
-- 
----
+
+###colorado+statistics
+
+####date: "2021-03-15T03:14:05Z"
 
 <table class="submission-table">
 					<thead>
