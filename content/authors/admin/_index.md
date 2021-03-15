@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: PhD Student
-    institution: The Department of Statistics and Actuarial Science
+    institution: Department of Statistics and Actuarial Science
     year: 
   - course: MA in Applied Statistics
     institution: Konkuk University
