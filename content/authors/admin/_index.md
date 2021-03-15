@@ -10,7 +10,7 @@ role: Prospective Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The University of Iowa
+- name: University of Iowa
   url: https://stat.uiowa.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,8 +24,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Statistics
-    institution:
+  - course: PhD Student
+    institution: The Department of Statistics and Actuarial Science
     year: 
   - course: MA in Applied Statistics
     institution: Konkuk University
