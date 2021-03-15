@@ -3,8 +3,8 @@
                 title: Ph.D. apps
                 subtitle: barbara+statistics
                 projects: []
-                date: "2021-03-15T02:31:02Z"
-                lastmod: "2021-03-15T02:31:02Z"
+                date: "2021-03-15T02:33:10Z"
+                lastmod: "2021-03-15T02:33:10Z"
                 draft: false
                 featured: false
                 authors:

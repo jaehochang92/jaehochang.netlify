@@ -3,8 +3,8 @@
                 title: Ph.D. apps
                 subtitle: rice+statistics
                 projects: []
-                date: "2021-03-15T02:31:06Z"
-                lastmod: "2021-03-15T02:31:06Z"
+                date: "2021-03-15T02:33:13Z"
+                lastmod: "2021-03-15T02:33:13Z"
                 draft: false
                 featured: false
                 authors:
