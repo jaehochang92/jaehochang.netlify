@@ -24,8 +24,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Student
-    institution: Department of Statistics and Actuarial Science,\nUniversity of Iowa
+  - course: Statistics Ph.D. Student
+    institution: University of Iowa
     year: 
   - course: MA in Applied Statistics
     institution: Konkuk University
