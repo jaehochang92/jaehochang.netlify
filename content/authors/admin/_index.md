@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution:
-    year: 2026
+    year: 
   - course: MA in Applied Statistics
     institution: Konkuk University
     year: 2018
