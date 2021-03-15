@@ -27,7 +27,7 @@ experience:
     company_url: 'http://www.konkuk.ac.kr/do/Eng/Index.do'
     location: Iowa City, Iowa
     date_start: '2021-08-18'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         TBU:
         * To Be Updated
