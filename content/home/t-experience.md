@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Teaching Assistant
+    company: Department of Statistics & Actuarial Science, University of Iowa
+    company_url: 'http://www.konkuk.ac.kr/do/Eng/Index.do'
+    location: Iowa City, Iowa
+    date_start: '2021-08-01'
+    date_end: 'Present'
+    description: |2-
+
+  - title: Teaching Assistant
     company: Department of Applied Statistics, Konkuk University
     company_url: 'http://www.konkuk.ac.kr/do/Eng/Index.do'
     location: Seoul, South Korea
