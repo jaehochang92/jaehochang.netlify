@@ -2,8 +2,8 @@
 title: Ph.D. apps
 subtitle: riverside+statistics
 projects: []
-date: "2021-03-15T02:54:48Z"
-lastmod: "2021-03-15T02:54:48Z"
+date: "2021-03-15T02:58:52Z"
+lastmod: "2021-03-15T02:58:52Z"
 draft: false
 featured: false
 authors:

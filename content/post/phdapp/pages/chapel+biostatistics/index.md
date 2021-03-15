@@ -2,8 +2,8 @@
 title: Ph.D. apps
 subtitle: chapel+biostatistics
 projects: []
-date: "2021-03-15T02:54:41Z"
-lastmod: "2021-03-15T02:54:41Z"
+date: "2021-03-15T02:58:45Z"
+lastmod: "2021-03-15T02:58:45Z"
 draft: false
 featured: false
 authors:
