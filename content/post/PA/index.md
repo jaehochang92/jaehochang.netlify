@@ -43,7 +43,7 @@ categories:
         Fall 2021 Statistics & Biostatistics Ph.D. program applications: fingers crossed! <a
             href='https://goo.gl/maps/AipjSG26F4PWmGsz9' target='_blank'>(map)</a>
         <br>
-        <a href='https://jaehochang.netlify.app/post/PA/usnr.html' target='_blank'>USNR</a>
+        <a href='https://jaehochang.netlify.app/post/pa/usnr' target='_blank'>USNR</a>
     </p>
     <blockquote>
         <p><a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">FORUM</a><br> <a
