@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: Department of Statistics & Actuarial Science, University of Iowa
-    company_url: 'http://www.konkuk.ac.kr/do/Eng/Index.do'
+    company_url: 'https://stat.uiowa.edu/'
     location: Iowa City, Iowa
     date_start: '2021-08-18'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
 
   - title: Teaching Assistant
     company: Department of Applied Statistics, Konkuk University
-    company_url: 'http://www.konkuk.ac.kr/do/Eng/Index.do'
+    company_url: 'https://www.konkuk.ac.kr/do/Eng/Index.do/'
     location: Seoul, South Korea
     date_start: '2018-03-05'
     date_end: '2019-12-31'
@@ -48,7 +48,7 @@ experience:
         
   - title: Part-time Lecturer
     company: Department of Human Resources, GS Engineering & Construction
-    company_url: 'http://www.gs.co.kr/en/branch/gs-ec'
+    company_url: 'http://www.gs.co.kr/en/'
     location: Seoul, South Korea
     date_start: '2020-07-01'
     date_end: '2020-10-31'
