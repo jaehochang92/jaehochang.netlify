@@ -34,7 +34,7 @@ publication_short: under review
 abstract: We proposed new bounds for Jensen's inequality. Our new bounds include the bounds from Liao and Berg (2018) and even attain the ultimate bounds if some conditions are satisfied. Examples including moment generating function, arithmetic-geometric mean inequality, power means inequality, and information entropy is given to illustrate the convergence of our bounds.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Jensen's inequality, Taylor series, Analytic function, Moment generating function, Information entropy
 
 tags: []
 
