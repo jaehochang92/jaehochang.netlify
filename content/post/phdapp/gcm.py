@@ -39,8 +39,7 @@ if __name__ == '__main__':
         tz = pytz.timezone('US/Eastern')
         time_stamp = datetime.now(tz).strftime("%Y-%m-%dT%I:%M:%SZ")
         html_file.writelines(
-            f'''
-                ---
+            f'''---
                 title: Ph.D. apps
                 subtitle: {query}
                 projects: []
@@ -54,7 +53,6 @@ if __name__ == '__main__':
                 - miscellaneous
                 categories:
                 - 
-                ---
-            ''' +
+                ---''' +
             header + submissions_phd + '</table>'
         )
