@@ -54,6 +54,6 @@ if __name__ == '__main__':
                 tags:
                 - miscellaneous
                 ---
-            ''' + 
+            ''' +
             header + submissions_phd + '</table>'
         )
