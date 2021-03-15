@@ -2,8 +2,8 @@
 title: Ph.D. apps
 subtitle: ohio+statistics
 projects: []
-date: "2021-03-15T02:58:48Z"
-lastmod: "2021-03-15T02:58:48Z"
+date: "2021-03-15T03:02:00Z"
+lastmod: "2021-03-15T03:02:00Z"
 draft: false
 featured: false
 authors:

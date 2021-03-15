@@ -2,8 +2,8 @@
 title: Ph.D. apps
 subtitle: colorado+statistics
 projects: []
-date: "2021-03-15T02:59:04Z"
-lastmod: "2021-03-15T02:59:04Z"
+date: "2021-03-15T03:02:13Z"
+lastmod: "2021-03-15T03:02:13Z"
 draft: false
 featured: false
 authors:
