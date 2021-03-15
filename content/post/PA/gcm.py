@@ -43,16 +43,17 @@ if __name__ == '__main__':
                 ---
                 title: Ph.D. apps
                 subtitle: {query}
+                projects: []
                 date: "{time_stamp}"
                 lastmod: "{time_stamp}"
                 draft: false
                 featured: false
-
                 authors:
                 - admin
-
                 tags:
                 - miscellaneous
+                categories:
+                - 
                 ---
             ''' +
             header + submissions_phd + '</table>'
