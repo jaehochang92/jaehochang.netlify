@@ -40,9 +40,9 @@ if __name__ == '__main__':
         tz = pytz.timezone('US/Eastern')
         time_stamp = datetime.now(tz).strftime("%Y-%m-%d %a %I:%M %p")
         html_file.writelines(
-            f'''table, th, td {
+            f'''table, th, td \{
   border: 1px solid black;
-}
+\}
 
 <h3>{query}</h3>
 <h4>{time_stamp}</h4>
