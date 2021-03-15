@@ -35,7 +35,7 @@ if __name__ == '__main__':
             submissions_phd += re.sub('<td class="tcol6">.+</td></tr>',
                                       f'<td class="tcol6">{cmm[0] if cmm else ""}</td></tr>', line) + '\n'
 
-    with open(f'tmp/{query}.html', 'w') as html_file:
+    with open(f'htmls/{query}.html', 'w') as html_file:
         tz = pytz.timezone('US/Eastern')
         time_stamp = datetime.now(tz).strftime("%Y-%m-%dT%I:%M:%SZ")
         html_file.writelines(
