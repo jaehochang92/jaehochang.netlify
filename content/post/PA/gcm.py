@@ -37,14 +37,14 @@ if __name__ == '__main__':
 
     with open(f'tmp/{query}.html', 'w') as html_file:
         tz = pytz.timezone('US/Eastern')
-        time_stamp = datetime.now(tz).strftime("%Y-%m-%d(%a) %I:%M %p")
+        time_stamp = datetime.now(tz).strftime("%Y-%m-%dT%I:%M:%SZ")
         html_file.writelines(
             f'''
                 ---
                 title: Ph.D. apps
                 subtitle: {query}
-                date: "2021-3-15T00:00:00Z"
-                lastmod: "2021-3-15T00:00:00Z"
+                date: "{time_stamp}"
+                lastmod: "{time_stamp}"
                 draft: false
                 featured: false
 
@@ -54,7 +54,6 @@ if __name__ == '__main__':
                 tags:
                 - miscellaneous
                 ---
-            '''
-            f'updated in {tz} time: {time_stamp}\n<br>\n<br>\n' +
+            ''' + 
             header + submissions_phd + '</table>'
         )
