@@ -1,6 +1,6 @@
 ### colorado+statistics
 
-#### 2021-03-15T03:14:56Z
+#### 2021-03-15 Mon 03:15 AM
 
 <table class="submission-table">
 					<thead>

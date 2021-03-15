@@ -1,6 +1,6 @@
 ### rice+statistics
 
-#### 2021-03-15T03:14:52Z
+#### 2021-03-15 Mon 03:15 AM
 
 <table class="submission-table">
 					<thead>

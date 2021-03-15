@@ -38,7 +38,7 @@ if __name__ == '__main__':
     import os
     with open(f'pages/{query}.md', 'w') as html_file:
         tz = pytz.timezone('US/Eastern')
-        time_stamp = datetime.now(tz).strftime("%Y-%m-%dT%I:%M:%SZ")
+        time_stamp = datetime.now(tz).strftime("%Y-%m-%d %a %I:%M %p")
         html_file.writelines(
             f'''### {query}\n
 #### {time_stamp}\n\n''' +
