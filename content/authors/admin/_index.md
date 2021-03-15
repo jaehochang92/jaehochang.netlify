@@ -10,8 +10,8 @@ role: Prospective Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University
-  url: https://www.whereshalligo.edu/
+- name: The University of Iowa
+  url: https://stat.uiowa.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current interes is high-dimensional modeling for biomedical data.
