@@ -1,19 +1,18 @@
 ---
-                title: Ph.D. apps
-                subtitle: florida+biostatistics
-                projects: []
-                date: "2021-03-15T02:36:33Z"
-                lastmod: "2021-03-15T02:36:33Z"
-                draft: false
-                featured: false
-                authors:
-                - admin
-                tags:
-                - miscellaneous
-                categories:
-                - 
-                ---
-                <table class="submission-table">
+title: Ph.D. apps
+subtitle: florida+biostatistics
+projects: []
+date: "2021-03-15T02:38:25Z"
+lastmod: "2021-03-15T02:38:25Z"
+draft: false
+featured: false
+authors:
+- admin
+tags:
+- miscellaneous
+categories:
+- 
+---<table class="submission-table">
 					<thead>
 						<tr>
 							<th class="tcol1">

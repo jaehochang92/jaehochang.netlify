@@ -40,20 +40,19 @@ if __name__ == '__main__':
         time_stamp = datetime.now(tz).strftime("%Y-%m-%dT%I:%M:%SZ")
         html_file.writelines(
             f'''---
-                title: Ph.D. apps
-                subtitle: {query}
-                projects: []
-                date: "{time_stamp}"
-                lastmod: "{time_stamp}"
-                draft: false
-                featured: false
-                authors:
-                - admin
-                tags:
-                - miscellaneous
-                categories:
-                - 
-                ---
-                ''' +
+title: Ph.D. apps
+subtitle: {query}
+projects: []
+date: "{time_stamp}"
+lastmod: "{time_stamp}"
+draft: false
+featured: false
+authors:
+- admin
+tags:
+- miscellaneous
+categories:
+- 
+---''' +
             header + submissions_phd + '</table>'
         )

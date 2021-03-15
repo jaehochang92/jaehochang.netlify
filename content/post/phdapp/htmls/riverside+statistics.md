@@ -1,19 +1,18 @@
 ---
-                title: Ph.D. apps
-                subtitle: riverside+statistics
-                projects: []
-                date: "2021-03-15T02:36:42Z"
-                lastmod: "2021-03-15T02:36:42Z"
-                draft: false
-                featured: false
-                authors:
-                - admin
-                tags:
-                - miscellaneous
-                categories:
-                - 
-                ---
-                <table class="submission-table">
+title: Ph.D. apps
+subtitle: riverside+statistics
+projects: []
+date: "2021-03-15T02:38:35Z"
+lastmod: "2021-03-15T02:38:35Z"
+draft: false
+featured: false
+authors:
+- admin
+tags:
+- miscellaneous
+categories:
+- 
+---<table class="submission-table">
 					<thead>
 						<tr>
 							<th class="tcol1">
