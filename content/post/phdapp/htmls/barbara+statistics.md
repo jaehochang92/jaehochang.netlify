@@ -2,8 +2,8 @@
 title: Ph.D. apps
 subtitle: barbara+statistics
 projects: []
-date: "2021-03-15T02:38:40Z"
-lastmod: "2021-03-15T02:38:40Z"
+date: "2021-03-15T02:41:34Z"
+lastmod: "2021-03-15T02:41:34Z"
 draft: false
 featured: false
 authors:
@@ -12,7 +12,9 @@ tags:
 - miscellaneous
 categories:
 - 
----<table class="submission-table">
+---
+
+<table class="submission-table">
 					<thead>
 						<tr>
 							<th class="tcol1">

@@ -53,6 +53,6 @@ tags:
 - miscellaneous
 categories:
 - 
----''' +
+---\n\n''' +
             header + submissions_phd + '</table>'
         )
