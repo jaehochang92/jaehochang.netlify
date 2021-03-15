@@ -26,7 +26,7 @@ education:
   courses:
   - course: Statistics Ph.D. Student
     institution: University of Iowa
-    year: 
+    year: Present
   - course: MA in Applied Statistics
     institution: Konkuk University
     year: 2018
