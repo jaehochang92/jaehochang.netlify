@@ -14,12 +14,11 @@ organizations:
   url: https://uiowa.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current interes is high-dimensional modeling for biomedical data.
+bio: My current interes are biomedical and high-dimensional data.
 
 # Interests to show in About widget
 interests:
 - High-dimensional Data
-- Statistical Genetics
 
 # Education to show in About widget
 education:
