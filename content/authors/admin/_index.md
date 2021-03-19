@@ -69,8 +69,6 @@ email: "cjhsfl@gmail.com"
 highlight_name: false
 ---
 
-I am a prospective Ph.D. student planning to study in the United States. I earned bachelor’s and master’s degrees in Applied Statistics at Konkuk University under the supervision of professor Kyusang Yu.
-
-My ultimate professional goal is to be a scholar developing applied statistical methodologies. In the future, I hope to do postdoc training in the public health sector and engage with other scientists in interdisciplinary studies. Then I desire to work as a faculty and develop methodologies for the most complex human diseases.
+I earned bachelor’s and master’s degrees in Applied Statistics at Konkuk University under the supervision of professor Kyusang Yu. My ultimate professional goal is to be a scholar developing statistical methodologies for biomedicine.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
