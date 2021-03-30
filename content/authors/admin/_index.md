@@ -10,8 +10,8 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Iowa
-  url: https://uiowa.edu/
+- name: Ohio State University
+  url: https://osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current interests are biomedical and high-dimensional data.
@@ -24,7 +24,7 @@ interests:
 education:
   courses:
   - course: Statistics Ph.D. Student
-    institution: University of Iowa
+    institution: Ohio State University
     year: Present
   - course: MA in Applied Statistics
     institution: Konkuk University
