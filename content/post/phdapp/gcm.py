@@ -4,6 +4,7 @@ from datetime import datetime, tzinfo
 import pytz
 import re
 import argparse
+import os
 
 
 parser = argparse.ArgumentParser(description='Type your query.')
@@ -35,7 +36,6 @@ if __name__ == '__main__':
             submissions_phd += re.sub('<td class="tcol6">.+</td></tr>',
                                       f'<td class="tcol6">{cmm[0] if cmm else ""}</td></tr>', line) + '\n'
 
-    import os
     with open(f'pages/{query}.html', 'w') as html_file:
         tz = pytz.timezone('US/Eastern')
         time_stamp = datetime.now(tz).strftime("%Y-%m-%d %a %I:%M %p")
@@ -44,7 +44,8 @@ if __name__ == '__main__':
 table, th, td {
     border: 1px solid black;
     }
-</style>'''f'''
+</style>
+'''f'''
 <h3>{query}</h3>
 <h4>{time_stamp}</h4>
 
