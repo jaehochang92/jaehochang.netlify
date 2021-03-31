@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: Department of Statistics, Ohio State University
-    company_url: ''
+    company_url: 'https://stat.osu.edu/'
     location: Columbus, Ohio
     date_start: '2021-08-01'
     date_end: ''
