@@ -142,7 +142,7 @@ search:
 map:
   provider: mapnik
   api_key: ''
-  zoom: 15
+  zoom: 10
 marketing:
   google_analytics: ''
   google_tag_manager: ''
