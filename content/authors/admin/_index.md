@@ -10,7 +10,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Ohio State University
+- name: The Ohio State University
   url: https://osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,7 +24,7 @@ interests:
 education:
   courses:
   - course: Statistics Ph.D. Student
-    institution: Ohio State University
+    institution: The Ohio State University
     year: Present
   - course: MA in Applied Statistics
     institution: Konkuk University
