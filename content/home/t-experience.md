@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Teaching Assistant
-    company: Department of Statistics, Ohio State University
+    company: Department of Statistics, The Ohio State University
     company_url: 'https://stat.osu.edu/'
-    location: Columbus, Ohio
-    date_start: '2021-08-01'
+    location: Columbus, OH
+    date_start: '2021-08-08'
     date_end: ''
     description: |2-
         TBU:
