@@ -24,14 +24,14 @@ email: cjhsfl@gmail.com
 phone: 82 10 9490 7035
 address:
   street: 
-  city: Namyangju-si
-  region: Gyeonggi-do
+  city: Columbus
+  region: OH
   postcode: ''
-  country: South Korea
-  country_code: KR
+  country: United States of America
+  country_code: US
 coordinates:
-  latitude: '37.650338'
-  longitude: '127.119997'
+  latitude: '40.0008978'
+  longitude: '-83.014906'
 directions: Find me
 office_hours:
   - 'Weekday 9:00 to 18:00'
