@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assistant
+  - title: Graduate Teaching Associate
     company: Department of Statistics, The Ohio State University
     company_url: 'https://stat.osu.edu/'
     location: Columbus, OH
-    date_start: '2021-08-08'
+    date_start: '2021-08-24'
     date_end: ''
     description: |2-
         TBU:
