@@ -14,18 +14,18 @@ organizations:
   url: https://osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current interests are biomedical and high-dimensional data.
+bio: My current interests are biomedical high-dimensional data.
 
 # Interests to show in About widget
 interests:
-- High-dimensional Data
+- High-dimensional data
 
 # Education to show in About widget
 education:
   courses:
   - course: Statistics Ph.D. Student
     institution: The Ohio State University
-    year: Present
+    year: 2021 -- Present
   - course: MA in Applied Statistics
     institution: Konkuk University
     year: 2018
@@ -69,5 +69,7 @@ highlight_name: false
 ---
 
 I earned bachelor’s and master’s degrees in Applied Statistics at Konkuk University under the supervision of professor Kyusang Yu. My ultimate professional goal is to be a scholar developing statistical methodologies for biomedicine.
+
+_"ALL that failures, frustrations, and pain in my life turned out to be my resilience, hope, and refining."_
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
