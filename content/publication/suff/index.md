@@ -1,25 +1,27 @@
 ---
-title: "High-dimensional linear discriminant analysis with moderately clipped LASSO"
+title: "Sufficient conditions for the oracle property in penalized linear regression"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- S Kwon
+- H Moon
 - admin
-- H Moon 
-- S Kwon 
+- S Lee
 
 # Author notes (optional)
 author_notes:
 - ""
 - ""
+- ""
 - "corresponding author"
 
 date: ""
-doi: "https://doi.org/10.29220/CSAM.2021.28.1.021"
+doi: "https://doi.org/10.5351/KJAS.2021.34.2.279"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2021-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,13 +30,13 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: _Communications for Statistical Applications and Methods_, 28(1), 21-37.
-publication_short: CSAM, 28(1), 21-37
+publication: _The Korean Journal of Applied Statistics_, 34(2), 279-293.
+publication_short: KJAS, 34(2), 279-293
 
-abstract: There is a direct connection between linear discriminant analysis (LDA) and linear regression since the direction vector of the LDA can be obtained by the least square estimation. The connection motivates the penalized LDA when the model is high-dimensional where the number of predictive variables is larger than the sample size. In this paper, we study the penalized LDA for a class of penalties, called the moderately clipped LASSO (MCL), which interpolates between the least absolute shrinkage and selection operator (LASSO) and minimax concave penalty. We prove that the MCL penalized LDA correctly identifies the sparsity of the Bayes direction vector with probability tending to one, which is supported by better finite sample performance than LASSO based on concrete numerical studies.
+abstract: In this paper, we introduce how to construct sufficient conditions for the oracle property in penalized linear regression model. We give formal definitions of the oracle estimator, penalized estimator, oracle penalized estimator, and the oracle property of the oracle estimator. Based on the definitions, we present a unified way of constructing optimality conditions for the oracle property and sufficient conditions for the optimality conditions that covers most of the existing penalties. In addition, we present an illustrative example and results from the numerical study.
 
 # Summary. An optional shortened abstract.
-summary: High-dimensional LDA, LASSO, MCP, moderately clipped LASSO
+summary: penalized estimator , oracle penalized estimator , oracle property
 
 tags: []
 
