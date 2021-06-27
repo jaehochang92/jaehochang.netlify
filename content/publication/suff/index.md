@@ -6,8 +6,8 @@ title: "Sufficient conditions for the oracle property in penalized linear regres
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - S Kwon
-- H Moon
 - admin
+- H Moon
 - S Lee
 
 # Author notes (optional)
