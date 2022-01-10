@@ -1,5 +1,5 @@
 ---
-title: "Ultimate Sharpening of Jensen's Inequality"
+title: "Further sharpening of Jensen's inequality"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,8 +15,8 @@ author_notes:
 - ""
 - "corresponding author"
 
-date: ""
-doi: ""
+date: "2021-11-10"
+doi: "10.1080/02331888.2021.1998052"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-01T00:00:00Z"
@@ -25,16 +25,16 @@ publishDate: "2021-08-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: manuscript submitted for publication
-publication_short: under review
+publication: Statistics
+publication_short:
 
-abstract: We proposed new bounds for Jensen's inequality. Our new bounds include the bounds from Liao and Berg (2018) and even attain the ultimate bounds if some conditions are satisfied. Examples including moment generating function, arithmetic-geometric mean inequality, power means inequality, and information entropy is given to illustrate the convergence of our bounds.
+abstract: In this study, we propose a new bound for Jensen's inequality. Under certain conditions, it is an ultimate bound equal to the Jensen gap. To the best of our knowledge, this is the first such bound to be developed. The proposed bound is applied to moment generating functions, the inequality of arithmetic and geometric means, a power mean, and information entropy.
 
 # Summary. An optional shortened abstract.
-summary: Jensen's inequality, Taylor series, Analytic function, Moment generating function, Information entropy
+summary: Jensen's inequality, Taylor series, analytic function, moment generating function, information entropy
 
 tags: []
 
