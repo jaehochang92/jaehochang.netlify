@@ -31,8 +31,7 @@ item:
   organization_url: http://www.kss.or.kr/eng/en_about_kss.html
   title: Honorable mention
   url: 
----
-
+  
 - certificate_url: 
   date_end: ""
   date_start: "2021-05-01"
