@@ -29,8 +29,9 @@ experience:
     date_start: '2021-08-24'
     date_end: ''
     description: |2-
-        TBU:
-        * To Be Updated
+        * Grading \- STAT 3201, 3450
+        * Recitation \- STAT 1350
+        * Tutoring
 
   - title: Teaching Assistant
     company: Department of Applied Statistics, Konkuk University
