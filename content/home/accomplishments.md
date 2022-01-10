@@ -33,3 +33,12 @@ item:
   url: 
 ---
 
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-05-01"
+  description: Awarded for the presentation of _High-dimensional linear discriminant analysis with moderately clipped LASSO_
+  organization: Korean Statistical Society
+  organization_url: http://www.kss.or.kr/eng/en_about_kss.html
+  title: Honorable mention
+  url: 
+---
