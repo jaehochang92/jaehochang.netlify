@@ -70,6 +70,4 @@ highlight_name: false
 
 I earned bachelor’s and master’s degrees in Applied Statistics at Konkuk University under the supervision of professor Kyusang Yu. My ultimate professional goal is to be a scholar developing statistical methodologies for biomedicine.
 
-# _"ALL that failures, frustrations, and pain in my life turned out to be the resilience, hope, and refining."_
-
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
