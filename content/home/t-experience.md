@@ -25,7 +25,7 @@ experience:
   - title: Graduate Teaching Associate
     company: Department of Statistics, The Ohio State University
     company_url: 'https://stat.osu.edu/'
-    location: Columbus, OH
+    location: Columbus, OH, USA
     date_start: '2021-08-24'
     date_end: ''
     description: |2-
