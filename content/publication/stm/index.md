@@ -28,8 +28,8 @@ publishDate: "2022-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: _Journal of Women, Politics & Policy_ (under review)
-publication_short: JWPP
+publication: _Journal of Women, Politics & Policy_, under review
+publication_short: _Journal of Women, Politics & Policy_, under review
 
 abstract: This paper examines the substantive representation of women lawmakers in the Korean National Assembly (KNA). To accomplish these goals the authors analyze the lawmakers’ gender difference in their deliberations and statements of minutes made by the members of twenty-three standing committees of the nineteenth KNA. The authors find that women members are not only focusing on the issues of traditional concern to women, including education, health and welfare (topics 2, 4, 11), they are also more active than their male counterparts in the deliberation of topics most uncommonly associated with women such as confirmation hearing (topic 17), budget planning and execution (topic 9), and union repression (topic 20). Based on these findings, the paper concludes that female representatives as a descriptive representatives play a role as substantive representatives promoting women’s interests.
 
