@@ -15,8 +15,8 @@ author_notes:
 - ""
 - ""
 
-date: ""
-doi: ""
+date: "2020-06-01"
+doi: "10.30992/KPSR.2020.06.19.2.131"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-06-01T00:00:00Z"
