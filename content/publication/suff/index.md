@@ -17,11 +17,11 @@ author_notes:
 - ""
 - "corresponding author"
 
-date: ""
+date: "2021-04-30"
 doi: "https://doi.org/10.5351/KJAS.2021.34.2.279"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-01T00:00:00Z"
+publishDate: "2021-04-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
