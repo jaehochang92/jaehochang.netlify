@@ -30,8 +30,8 @@ publishDate: "2021-04-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: _The Korean Journal of Applied Statistics_, 34(2), 279-293.
-publication_short: KJAS, 34(2), 279-293
+publication: _The Korean Journal of Applied Statistics_, 34(2):279–-293.
+publication_short: _The Korean Journal of Applied Statistics_, 34(2):279–-293.
 
 abstract: In this paper, we introduce how to construct sufficient conditions for the oracle property in penalized linear regression model. We give formal definitions of the oracle estimator, penalized estimator, oracle penalized estimator, and the oracle property of the oracle estimator. Based on the definitions, we present a unified way of constructing optimality conditions for the oracle property and sufficient conditions for the optimality conditions that covers most of the existing penalties. In addition, we present an illustrative example and results from the numerical study.
 
