@@ -28,8 +28,8 @@ publishDate: "2021-11-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: _Statistics_, 55(5):1154--1168
-publication_short: _Statistics_, 55(5):1154--1168
+publication: _Statistics_, 55(5):1154-1168
+publication_short: _Statistics_, 55(5):1154-1168
 
 abstract: In this study, we propose a new bound for Jensen's inequality. Under certain conditions, it is an ultimate bound equal to the Jensen gap. To the best of our knowledge, this is the first such bound to be developed. The proposed bound is applied to moment generating functions, the inequality of arithmetic and geometric means, a power mean, and information entropy.
 
