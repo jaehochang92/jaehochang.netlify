@@ -28,8 +28,8 @@ publishDate: "2020-06-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: _Korean Party Studies Review_, 19(2):131–167
-publication_short: _Korean Party Studies Review_, 19(2):131–167
+publication: _Korean Party Studies Review_, 19(2):131–-167
+publication_short: _Korean Party Studies Review_, 19(2):131-–167
 
 abstract: It is necessary to analyze the deliberation process within the standing committee in order to understand the assembly’s collective decision-making structure. This paper analyzes the minutes of the Twentieth National Assembly Health and Welfare Committee by utilizing the topic modeling technique based on an automated text analysis. As a result of this analysis, we extracted sixteen topics characterized by their high frequency of occurring in speeches during the standing committee meetings. Based on the sixteen topics extracted, we examined the review process within the Health and Welfare Committee. We found that the confrontation structure was clearly identifiable that differed depending on the characteristics of each political party, subject, timing, and the individual members. We also discovered that there were differences in the areas of interest regarding policy and legislative issues. This paper analyzed in detail the actual issues and their associated confrontational structures in the process of deliberation of bills and confirmed their substance by analyzing the minutes of the standing committee. This approach is rather different from the one pursued by the existing research that has analyzed the deliberation process of the standing committee based on the collective data.
 
