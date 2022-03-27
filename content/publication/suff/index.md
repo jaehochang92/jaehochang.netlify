@@ -1,5 +1,5 @@
 ---
-title: "Sufficient conditions for the oracle property in penalized linear regression"
+title: "Sufficient conditions for the oracle property in penalized linear regression (written in Korean)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
