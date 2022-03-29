@@ -11,14 +11,14 @@ role: Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The Ohio State University
-  url: https://osu.edu/
+  url: https://stat.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current interests are biomedical high-dimensional data.
 
 # Interests to show in About widget
 interests:
-- High-dimensional data
+- High-dimensional data analysis
 
 # Education to show in About widget
 education:
@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "cjhsfl@gmail.com"
